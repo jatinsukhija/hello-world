@@ -1,4 +1,4 @@
 # hello-world
-My new Repository
+This is a Python Calculator Project, integrated with linter and Sonarqube test
 # By Jatin Sukhija
 
