@@ -36,4 +36,5 @@ jobs:
           SONAR_HOST_URL: "https://sonarcloud.io"
         with:
           args: >
-           -Dsonar.projectKey=jatinsukhija_hello-world  
+           -Dsonar.projectKey=jatinsukhija_hello-world
+           -Dsonar.organization=jatinsukhija
