@@ -37,4 +37,4 @@ jobs:
         with:
           args: >
            -Dsonar.projectKey=jatinsukhija_hello-world
-           -Dsonar.organization=jatinsukhija
+           -Dsonar.organization=jatinsukhija-1
